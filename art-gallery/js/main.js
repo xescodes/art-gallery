@@ -1,0 +1,1 @@
+console.console.log('Three object here', THREE);
